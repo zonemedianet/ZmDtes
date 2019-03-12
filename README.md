@@ -7,7 +7,7 @@ Recode by Dandy
 
 ## Install
       $ pkg install php
-      $ git clone https://github.com/dandyraka/FacebookUnfriend.git
+      $ git clone https://github.com/zonemedianet/ZmDtes.git
       $ cd FacebookUnfriend
 
 ## Run
