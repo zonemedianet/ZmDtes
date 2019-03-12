@@ -8,7 +8,7 @@ Recode by Dandy
 ## Install
       $ pkg install php
       $ git clone https://github.com/zonemedianet/ZmDtes.git
-      $ cd FacebookUnfriend
+      $ cd ZmDtes
 
 ## Run
       $ php unfriend.php
